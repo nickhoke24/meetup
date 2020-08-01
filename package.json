@@ -2,7 +2,11 @@
   "name": "meetup",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "http://nickhoke24.github.io/meetup/",
+=======
+  "homepage": "http://nickhoke24.github.io/meetup",
+>>>>>>> b74728f17df913e269be3ddeb284427b1e5b519e
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
